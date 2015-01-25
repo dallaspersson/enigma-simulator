@@ -1,0 +1,30 @@
+{
+  "name": "enigma-simulator",
+  "version": "0.0.0",
+  "description": "Simulator for the Enigma Machine used during the WWII.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dallaspersson/enigma-simulator.git"
+  },
+  "homepage": "https://github.com/dallaspersson/enigma-simulator/blob/master/README.md",
+  "tags": [
+    "enigma"
+  ],
+  "keywords": [
+    "enigma",
+    "turing"
+  ],
+  "author": "Oscar Persson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dallaspersson/enigma-simulator/issues"
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  }
+}
